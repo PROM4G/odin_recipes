@@ -6,11 +6,12 @@ body {
   }
   
   p {
-  background-color: blanchedalmond;
-  text-align: center;
-  
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 20px;  
   }
   
-  div {
-    
+  h1 {
+    color: blue;
+    background-color: aliceblue;
   }
