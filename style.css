@@ -1,4 +1,8 @@
 
+* { 
+  outline: 1px solid black;
+}
+
 body {
     font-style: normal;
     background-color: rgb(232, 183, 86);
@@ -15,3 +19,4 @@ body {
     color: blue;
     background-color: aliceblue;
   }
+
